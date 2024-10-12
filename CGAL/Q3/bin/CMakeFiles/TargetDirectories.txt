@@ -1,0 +1,3 @@
+/home/rohit/Assigments/CGAL/Q3/bin/CMakeFiles/rebuild_cache.dir
+/home/rohit/Assigments/CGAL/Q3/bin/CMakeFiles/edit_cache.dir
+/home/rohit/Assigments/CGAL/Q3/bin/CMakeFiles/q3.dir

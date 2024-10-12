@@ -1,0 +1,3 @@
+/home/rohit/Assigments/CGAL/Q6/bin/CMakeFiles/rebuild_cache.dir
+/home/rohit/Assigments/CGAL/Q6/bin/CMakeFiles/edit_cache.dir
+/home/rohit/Assigments/CGAL/Q6/bin/CMakeFiles/q6.dir
